@@ -1,4 +1,4 @@
-### Welcome to  muhammad **Ahmed** github! 👋
+### Welcome to  muhammad Ahmed github! 👋
 
 <!--
 **muhammadahmed999/muhammadahmed999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
